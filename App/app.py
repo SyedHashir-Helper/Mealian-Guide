@@ -57,7 +57,7 @@ with st.sidebar:
     generate_button = st.button("Generate")
 
 # Centered title and description
-st.markdown("<h1 style='text-align: center;'>Velo Guardian</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Mealian Guide</h1>", unsafe_allow_html=True)
 st.markdown(
     "<p style='text-align: center;'>Your personalized health monitor and meal plan generator. Enter your sugar levels and dietary preferences to get customized recommendations.</p>",
     unsafe_allow_html=True,
